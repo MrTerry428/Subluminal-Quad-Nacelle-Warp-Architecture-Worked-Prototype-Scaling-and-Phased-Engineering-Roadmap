@@ -2,7 +2,7 @@
 Subluminal Quad-Nacelle Warp Architecture: Stress-Energy, Metric Stability, Worked Prototype Scaling, and Phased Engineering Roadmap
 License: CC BY-NC-SA 4.0
 Subluminal Quad-Nacelle Warp Architecture: Stress-Energy, Metric Stability, Worked Prototype Scaling, and Phased Engineering Roadmap
-Terry  Vines
+Terry L. Vines  and Terry D. Vines 
 ¹ Retired Researcher, Rome, GA, USA
 ² Researcher, Rome, GA, USA
 
