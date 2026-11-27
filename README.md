@@ -1,11 +1,17 @@
 # Subluminal-Quad-Nacelle-Warp-Architecture-Worked-Prototype-Scaling-and-Phased-Engineering-Roadmap  
 Dated 11/11/26
+Sublumiad-Nacelle-Warp-Architecture-Worked-Prototype-Scaling-and-Phased-Engineering-Roadmap © 2026 by Terry Vines is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/    License: CC BY-NC-SA 4.0
 Subluminal Quad-Nacelle Warp Architecture: Stress-Energy, Metric Stability, Worked Prototype Scaling, and Phased Engineering Roadmap
-Subluminal-Quad-Nacelle-Warp-Architecture-Worked-Prototype-Scaling-and-Phased-Engineering-Roadmap © 2026 by Terry Vines is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/    License: CC BY-NC-SA 4.0
+Terry L. Vines  and Terry D. Vines 
+[Subluminal_Quad_Nacelle_Warp_Architecture_AIAA_v2.pdf](https://github.com/user-attachments/files/35526995/Subluminal_Quad_Nacelle_Warp_Architecture_AIAA_v2.pdf)
+# Subluminal-Quad-Nacelle-Warp-Architecture-Worked-Prototype-Scaling-and-Phased-Engineering-Roadmap  
+Dated 11/11/26
+Sublumiad-Nacelle-Warp-Architecture-Worked-Prototype-Scaling-and-Phased-Engineering-Roadmap © 2026 by Terry Vines is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/    License: CC BY-NC-SA 4.0
 Subluminal Quad-Nacelle Warp Architecture: Stress-Energy, Metric Stability, Worked Prototype Scaling, and Phased Engineering Roadmap
 Terry L. Vines  and Terry D. Vines 
 ¹ Retired Researcher, Rome, GA, USA
-² Researcher, Rome, GA, USA
+² Researcher, Rome, GA, USAnal Quad-Nacelle Warp Architecture: Stress-Energy, Metric Stability, Worked Prototype Scaling, and Phased Engineering Roadmap
+
 
 Abstract
 A subluminal space-propulsion architecture is presented that combines localized extra-dimensional flux coupling with four symmetrically arranged, counter-rotating cylindrical nacelles. Derived from an ultraviolet-complete eleven-dimensional supergravity embedding, the propulsion metric confines spacetime curvature gradients strictly to thin end-cap boundary layers while maintaining an interior-flat payload region. Explicit derivations of the effective four-dimensional stress-energy tensor, linearized metric stability against quadrupole shear modes, semiclassical vacuum backreaction, and Ford–Roman worldline quantum inequalities demonstrate that superconducting electromagnetic bias fields and subluminal pulsed duty cycles satisfy energy-condition bounds without forming causal horizons. A worked numerical prototype case study (Rnac=1.0m, B0=30T, nac=104rad/s) yields an achievable metric strain of g/2.410-8 at a peak pulsed power of 0.45TW, placing subluminal laboratory testing within projected fusion power plant capabilities. Quantitative predictions are benchmarked against current experimental limits, and a four-stage Technology Readiness Level (TRL 1–4) engineering roadmap is established.
